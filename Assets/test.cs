@@ -5,9 +5,10 @@ using UnityEngine;
 public class test : MonoBehaviour
 {
     [SerializeField] private uint _uinttest = 0;
+    [SerializeField] private int _inttest = 0;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 		
 	}
 	
