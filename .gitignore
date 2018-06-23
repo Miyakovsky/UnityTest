@@ -1,1 +1,6 @@
 /Library
+/.vs
+/obj
+/Temp
+/Assembly-CSharp.csproj
+/GitTest.sln
